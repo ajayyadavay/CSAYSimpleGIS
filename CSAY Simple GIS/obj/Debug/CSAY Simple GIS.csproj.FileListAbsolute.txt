@@ -1,0 +1,17 @@
+F:\AY\VS_2017\C#\CSAY Simple GIS\CSAY Simple GIS\bin\Debug\CSAY Simple GIS.exe.config
+F:\AY\VS_2017\C#\CSAY Simple GIS\CSAY Simple GIS\bin\Debug\CSAY Simple GIS.exe
+F:\AY\VS_2017\C#\CSAY Simple GIS\CSAY Simple GIS\bin\Debug\CSAY Simple GIS.pdb
+F:\AY\VS_2017\C#\CSAY Simple GIS\CSAY Simple GIS\obj\Debug\CSAY Simple GIS.csprojAssemblyReference.cache
+F:\AY\VS_2017\C#\CSAY Simple GIS\CSAY Simple GIS\obj\Debug\CSAY_Simple_GIS.Properties.Resources.resources
+F:\AY\VS_2017\C#\CSAY Simple GIS\CSAY Simple GIS\obj\Debug\CSAY Simple GIS.csproj.GenerateResource.cache
+F:\AY\VS_2017\C#\CSAY Simple GIS\CSAY Simple GIS\obj\Debug\CSAY Simple GIS.csproj.CoreCompileInputs.cache
+F:\AY\VS_2017\C#\CSAY Simple GIS\CSAY Simple GIS\obj\Debug\CSAY Simple GIS.exe
+F:\AY\VS_2017\C#\CSAY Simple GIS\CSAY Simple GIS\obj\Debug\CSAY Simple GIS.pdb
+F:\AY\VS_2017\C#\CSAY Simple GIS\CSAY Simple GIS\bin\Debug\Interop.MapWinGIS.dll
+F:\AY\VS_2017\C#\CSAY Simple GIS\CSAY Simple GIS\bin\Debug\AxInterop.MapWinGIS.dll
+F:\AY\VS_2017\C#\CSAY Simple GIS\CSAY Simple GIS\obj\Debug\Interop.MapWinGIS.dll
+F:\AY\VS_2017\C#\CSAY Simple GIS\CSAY Simple GIS\obj\Debug\AxInterop.MapWinGIS.dll
+F:\AY\VS_2017\C#\CSAY Simple GIS\CSAY Simple GIS\obj\Debug\CSAY Simple GIS.csproj.ResolveComReference.cache
+F:\AY\VS_2017\C#\CSAY Simple GIS\CSAY Simple GIS\obj\Debug\CSAY_Simple_GIS.FrmSimpleGISMain.resources
+F:\AY\VS_2017\C#\CSAY Simple GIS\CSAY Simple GIS\obj\Debug\CSAY_Simple_GIS.FrmAbout.resources
+F:\AY\VS_2017\C#\CSAY Simple GIS\CSAY Simple GIS\obj\Debug\CSAY_Simple_GIS.FrmAttributeTable.resources
